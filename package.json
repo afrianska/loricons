@@ -1,0 +1,25 @@
+{
+  "name": "loricons",
+  "version": "1.0.0",
+  "description": "Loricons is icon package by Afrian EP",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Afrian E. Prasetyo",
+  "license": "MIT License",
+  "homepage": "https://github.com/afrianska/loricons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrianska/loricons.git"
+  },
+    "bugs": {
+    "url": "https://github.com/afrianska/loricons/issues"
+  },
+  "keywords": [
+    "loricons",
+    "icon",
+    "free",
+    "icon"
+  ]
+}
